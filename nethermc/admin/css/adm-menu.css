@@ -1,0 +1,116 @@
+.menu {
+    background-image: url("https://cdn.discordapp.com/attachments/757684683654955121/886881881419808808/Bez_nazwy-1.png");
+    height: 100%;
+    width: 240px;
+    box-shadow: 0 0 5px black;
+    float: left;
+    position: fixed;
+}
+
+.menu-title {
+    height: auto;
+    width: auto;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    float: left;
+    font-size: 25px;
+    margin-top: 80px;
+    margin-left: -10px;
+}
+.menu-buttnos-box {
+    height: 600px;
+    width: 100%;
+    float: left;
+    margin-top: 20px;
+}
+.button {
+    height: 30px;
+    width: 80%;
+    margin-left: 10%;
+    text-align: left;
+    font-family: 'Poppins', sans-serif;
+    float: left;
+    margin-top: 30px;
+    color: white;
+    letter-spacing: 1px;
+}
+a:hover {
+    transition: all 0.3s ease;
+    color: #ff7300;
+}
+a {
+    color: white;
+    transition: all 0.3s ease;
+
+}
+.button1 {
+    height: 30px;
+    width: 80%;
+    margin-left: 35px;
+    text-align: left;
+    font-family: 'Poppins', sans-serif;
+    float: left;
+    margin-top: 30px;
+    color: #ff8000;
+    letter-spacing: 1px;
+}
+.passwordchange {
+    height: 10px;
+    width:auto;
+    margin-top: -2px;
+    font-size: 13px;
+    color: #02a9ff;
+    transition: all 0.3s ease-in-out;
+}
+.passwordchange:hover {
+    height: 10px;
+    width:auto;
+    margin-top: -2px;
+    font-size: 13px;
+    color: #0087ce;
+    transition: all 0.3s ease-in-out;
+}
+.user-box {
+    height: 50px;
+    width: 100%;
+    float: left;
+}
+.user-img {
+    height: 35px;
+    margin-top: 12px;
+    width: 35px;
+    margin-left: 60px;
+    border-radius: 50px;
+    box-shadow: 0 0 5px black;
+    float: left;
+}
+.user-hr {
+    border-color: #ff8800;
+    width: 45%;
+    margin-top: 10px;
+}
+.user-nickname {
+    float: left;
+    margin-top: 15px;
+    margin-left: 10px;
+    font-family: 'Poppins', sans-serif;
+    color: white;
+}
+.logout-button {
+    height: 10px;
+    width:100%;
+    margin-top: -2px;
+    font-size: 13px;
+    font-family: 'Poppins', sans-serif;
+    color: #02a9ff;
+    transition: all 0.3s ease-in-out;
+    text-align: center;
+    float: left;
+}
+.button-hr {
+    border-color: #ff8800;
+    width: 30%;
+    margin-left: 25%;
+    margin-top: 10px;
+    float: left;
+}
